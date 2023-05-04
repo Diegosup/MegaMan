@@ -1,0 +1,16 @@
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\bin\Release\Scroll.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\bin\Release\Scroll.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Release\Scroll.MAIN.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Release\Scroll.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Release\Scroll.Resource1.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Release\Scroll.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Release\Scroll.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Release\Scroll.pdb
+L:\Scroll\Scroll\obj\x86\Release\Scroll.exe
+L:\Scroll\Scroll\obj\x86\Release\Scroll.pdb
+L:\Scroll\Scroll\bin\Release\Scroll.exe
+L:\Scroll\Scroll\bin\Release\Scroll.pdb
+L:\Scroll\Scroll\obj\x86\Release\Scroll.MAIN.resources
+L:\Scroll\Scroll\obj\x86\Release\Scroll.Properties.Resources.resources
+L:\Scroll\Scroll\obj\x86\Release\Scroll.Resource1.resources
+L:\Scroll\Scroll\obj\x86\Release\Scroll.csproj.GenerateResource.Cache

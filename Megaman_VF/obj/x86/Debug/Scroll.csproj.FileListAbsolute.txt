@@ -1,0 +1,76 @@
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\bin\Debug\Scroll.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\bin\Debug\Scroll.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Debug\Scroll.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Debug\Scroll.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\bin\Debug\Scroll.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\bin\Debug\Scroll.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\Scroll\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.Cache
+D:\C#\Scroll\obj\x86\Debug\Scroll.exe
+D:\C#\Scroll\obj\x86\Debug\Scroll.pdb
+D:\C#\Scroll\bin\Debug\Scroll.exe.config
+D:\C#\Scroll\bin\Debug\Scroll.exe
+D:\C#\Scroll\bin\Debug\Scroll.pdb
+D:\C#\Scroll\obj\x86\Debug\Scroll.csproj.AssemblyReference.cache
+D:\C#\Scroll\obj\x86\Debug\Scroll.csproj.SuggestedBindingRedirects.cache
+D:\C#\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+D:\C#\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+D:\C#\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+D:\C#\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.cache
+D:\C#\Scroll\obj\x86\Debug\Scroll.csproj.CoreCompileInputs.cache
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\bin\Debug\Scroll.exe.config
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\bin\Debug\Scroll.exe
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\bin\Debug\Scroll.pdb
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.csproj.AssemblyReference.cache
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.csproj.SuggestedBindingRedirects.cache
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.cache
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.csproj.CoreCompileInputs.cache
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.exe
+D:\C#\LAB Videojuegos MEGAMAN\Scroll\obj\x86\Debug\Scroll.pdb
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\bin\Debug\Scroll.exe.config
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\bin\Debug\Scroll.exe
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\bin\Debug\Scroll.pdb
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.csproj.AssemblyReference.cache
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.csproj.SuggestedBindingRedirects.cache
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.cache
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.exe
+C:\Users\Álvaro Fernando\Desktop\Diego Final\Scroll\obj\x86\Debug\Scroll.pdb
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.csproj.AssemblyReference.cache
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.csproj.SuggestedBindingRedirects.cache
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.cache
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.csproj.CoreCompileInputs.cache
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.exe
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\obj\x86\Debug\Scroll.pdb
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\bin\Debug\Scroll.exe.config
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\bin\Debug\Scroll.exe
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll\bin\Debug\Scroll.pdb
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\bin\Debug\Scroll.exe.config
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\bin\Debug\Scroll.exe
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\bin\Debug\Scroll.pdb
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.csproj.AssemblyReference.cache
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.csproj.SuggestedBindingRedirects.cache
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.MAIN.resources
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.Properties.Resources.resources
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.Resource1.resources
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.csproj.GenerateResource.cache
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.csproj.CoreCompileInputs.cache
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.exe
+D:\C#\LAB Videojuegos MEGAMAN\V002 ALVARO MAPA\Scroll_VF\obj\x86\Debug\Scroll.pdb
